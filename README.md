@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://tarikul-islam-shykat.github.io/shykat.github.io/](https://tarikul-islam-shykat.github.io/shykat.github.io/)
 
-- ⚡ Fun fact **English teacher : It is semicolon ;, we hardly use it. CSE students : -__-**
+- ⚡ Fun fact **English teacher : It is semicolon ; we hardly use it. CSE students : -__-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
