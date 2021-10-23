@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikul-islam-shykat" alt="tarikul-islam-shykat" /></a> </p>
 
-- 🔭 I’m currently working on **Covid Tracker app Using RESTapi**
+- 🔭 I’m currently working on **Covid Tracker app Using RESTapi for world**
 
 - 🌱 I’m currently learning **Kotlin**
 
