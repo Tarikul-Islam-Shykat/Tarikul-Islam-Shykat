@@ -32,11 +32,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikul-islam-shykat&" alt="tarikul-islam-shykat" /></p>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikul-islam-shykat
-&theme=light&hide_langs_below=1" />
-</a>
-<a h>
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikul-islam-shykat
-&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
