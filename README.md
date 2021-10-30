@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shykatislam138@gmail.com**
 
-- 📄 Know about my experiences [https://tarikul-islam-shykat.github.io/shykat.github.io/](https://tarikul-islam-shykat.github.io/shykat.github.io/)
+- 📄 Know about my experiences [https://tarikul-islam-shykat.github.io/shykat.github.io/](https://tarikul-islam-shykat.github.io/Portfolio/)
 
 - ⚡ Fun fact **English teacher : It is semicolon ; we hardly use it. CSE students : -__-**
 
