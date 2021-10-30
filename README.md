@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://tarikul-islam-shykat.github.io/Portfolio/](https://tarikul-islam-shykat.github.io/shykat.github.io/)
+- 👨‍💻 All of my projects are available at [https://tarikul-islam-shykat.github.io/Portfolio/](https://tarikul-islam-shykat.github.io/Portfolio/)
 
 - 📫 How to reach me **shykatislam138@gmail.com**
 
