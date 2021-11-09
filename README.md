@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikul-islam-shykat" alt="tarikul-islam-shykat" /></a> </p>
 
-- 🔭 I’m currently working on **building a Bux app with some more feature [Strated 29/10/2021]**
+- 🔭 I’m currently working on **note app using SQLite Database*
 
 - 🌱 I’m currently learning **Kotlin**
 
