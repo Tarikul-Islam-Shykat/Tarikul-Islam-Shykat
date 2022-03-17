@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikul-islam-shykat" alt="tarikul-islam-shykat" /></a> </p>
 
-- 🔭 I’m currently working on **note app using SQLite Database**
+- 🔭 I’m currently working on **chat app using firebase**
 
 - 🌱 I’m currently learning **Kotlin**
 
