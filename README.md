@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarikul Islam Shykat</h1>
 <h3 align="center">Trying hard to figure out so many things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikul-islam-shykat&label=Profile%20views&color=5ce600&style=flat-square" alt="tarikul-islam-shykat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarikul-islam-shykat" alt="tarikul-islam-shykat" /></a> </p>
 
 - 🔭 I’m currently working on **chat app using firebase**
 
