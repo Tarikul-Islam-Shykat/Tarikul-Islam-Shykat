@@ -8,6 +8,10 @@
 
 - 👨‍💻 All of my projects are available at [https://tarikul-islam-shykat.github.io/Portfolio/](https://tarikul-islam-shykat.github.io/Portfolio/)
 
+👨‍💻 **Hacker Rank : ** https://www.hackerrank.com/shykatislam138
+👨‍💻 **URI : ** https://www.beecrowd.com.br/judge/en/profile/451830
+
+
 - 📫 How to reach me **shykatislam138@gmail.com**
 
 - 📄 Know about my experiences [https://tarikul-islam-shykat.github.io/shykat.github.io/](https://tarikul-islam-shykat.github.io/Portfolio/)
