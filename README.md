@@ -2,9 +2,9 @@
 <h3 align="center">Trying hard to figure out so many things</h3>
 
 
-- 🔭 I’m currently working on **chat app using firebase**
+- 🔭 I’m currently working on ****
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **ML**
 
 - 👨‍💻 All of my projects are available at [https://tarikul-islam-shykat.github.io/Portfolio/](https://tarikul-islam-shykat.github.io/Portfolio/)
 
