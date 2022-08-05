@@ -2,7 +2,7 @@
 <h3 align="center">Trying hard to figure out so many things</h3>
 
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **Android Development**
 
 - 🌱 I’m currently learning **ML**
 
