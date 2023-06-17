@@ -22,15 +22,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tarikul-islam-shykat-63ab811aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tarikul-islam-shykat-63ab811aa" height="30" width="40" /></a>
-  
-<a href="https://kaggle.com/https://www.kaggle.com/shykatislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shykatislam" height="30" width="40" /></a>
-  
-<a href="https://web.facebook.com/shykatkhan.arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/shykatkhan.arnav" height="30" width="40" /></a>
-  
-<a href="https://www.instagram.com/i_am_shoikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_am_shoikot" height="30" width="40" /></a>
-  
-<a href="https://www.hackerrank.com/shykatislam138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shykatislam138" height="30" width="40" /></a>
-
+  <a href="https://kaggle.com/https://www.kaggle.com/shykatislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shykatislam" height="30" width="40" /></a>
+  <a href="https://web.facebook.com/shykatkhan.arnav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/shykatkhan.arnav" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/i_am_shoikot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_am_shoikot" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/shykatislam138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shykatislam138" height="30" width="40" /></a>
 <a href="https://leetcode.com/shykatislam138" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shykatislam138/" height="30" width="40" /></a>
 </p>
 
