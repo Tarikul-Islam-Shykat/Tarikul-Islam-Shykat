@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tarikul Islam ShykaT</h1>
 <h3 align="center">Passionate Android Developer and NLP Enthusiast from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikul-islam-shykat&label=Profile%20views&color=0e75b6&style=flat" alt="tarikul-islam-shykat" /> </p>
 
