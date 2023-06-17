@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
-<h1 align="center">Hi 👋, I'm Tarikul Islam ShykaT</h1>
+<h1 align="center">Hi 👋, I'm Tarikul Islam Shykat</h1>
 
 <h3 align="center">Passionate Android Developer and NLP Enthusiast from Bangladesh</h3>
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
