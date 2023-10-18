@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **NLP and Application Development Projects**
 
-- 👨‍💻 All of my projects are available at [In my Starts section](In my Starts section)
+- 👨‍💻 All of my projects are available at [In my Starts section]
 
 - 💬 Ask me about **Android Development , Natural Language Processing**
 
