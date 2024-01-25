@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="450" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikul-islam-shykat&label=Profile%20views&color=0e75b6&style=flat" alt="tarikul-islam-shykat" /> </p>
+- 🔭 My Portfolio : https://tarikul-islam-shykat.github.io/person_site/
 
 - 🔭 I’m currently working on **NLP and Android Development**
 
